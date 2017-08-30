@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorePersian", "CorePersian\CorePersian.csproj", "{BC089936-557A-490B-92F3-C0C4979AFBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC089936-557A-490B-92F3-C0C4979AFBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC089936-557A-490B-92F3-C0C4979AFBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC089936-557A-490B-92F3-C0C4979AFBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC089936-557A-490B-92F3-C0C4979AFBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3404C38-7EBB-40A4-8BF5-F9094AB5968B}
+	EndGlobalSection
+EndGlobal
